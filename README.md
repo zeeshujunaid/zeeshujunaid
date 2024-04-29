@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZEESHAN JUNAID</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h3 align="center">A passionate web and mobile app developer from pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
