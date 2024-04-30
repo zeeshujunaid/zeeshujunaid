@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjKrWth_82C61BhgNvH8XRXQK4O84eLkd-A&usqp=CAU)
+![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm ZEESHAN JUNAID</h1>
 <h3 align="center">A passionate web and mobile app developer from pakistan</h3>
 
