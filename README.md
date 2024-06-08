@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WEB AND MOBILE APP DEVELOPMENT AND AI (artifical intelligence)**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTNATIVE,typescript,react**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTNATIVE,TYPESCRIPT,REACT**
 
 - 📫 How to reach me **zeeshan.junaid.developer@gmail.com**
 
