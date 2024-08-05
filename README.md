@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WEB AND MOBILE APP DEVELOPMENT AND AI (artifical intelligence)**
 
-- 💬 Ask me about **FULL STACK DEVELOPMENT AND AI**
+- 💬 Ask me about ** FULL STACK DEVELOPMENT AND AI**
 
 - 📫 How to reach me **zeeshan.junaid.developer@gmail.com**
 
