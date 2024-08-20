@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio,npm,bootstrap,github,ai,vite,vscode,nodejs,git,html,css,js,ts,react,next,firebase,tailwind" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio,npm,bootstrap,github,ai,vite,vscode,nodejs,git,html,css,js,ts,react,next,firebase,tailwind," alt="My Skills">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshujunaid&show_icons=true&locale=en&layout=compact" alt="zeeshujunaid" /></p>
