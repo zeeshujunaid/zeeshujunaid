@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm ZEESHAN JUNAID</h1>
-<h3 align="center">A passionate fullstack developer from pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshujunaid&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshujunaid" /> </p>
+<h1 align="center">Hi 👋, I'm zeeshan</h1>
+<h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FORM PAKISTAN</h3>
 
 - 🌱 I’m currently learning **WEB AND MOBILE APP DEVELOPMENT AND AI (artifical intelligence)**
 
-- 💬 Ask me about **FULL STACK DEVELOPMENT AND AI**
+- MY PORTFOLIO [https://zeeshanjunaidportfolio.netlify.app/](https://zeeshanjunaidportfolio.netlify.app/)
 
-- 📫 How to reach me **zeeshan.junaid.developer@gmail.com**
+- 💬 Ask me about **MY TOOLS AND LANGUAGES**
 
 - ⚡ Fun fact **I THINK I M FUNNY**
-
-- ⚡ My Portflio **<a href="https://zeeshanjunaidportfolio.netlify.app/">zeeshanjunaid</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
