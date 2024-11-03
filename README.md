@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sportshubmobileapp](https://github.com/zeeshujunaid/sportshubapp)
 
-- 🌱 I’m currently learning **web and app development and Ai**
+- 🌱 I’m currently learning **Ai (Artifical Intelligence)**
 
 - 👨‍💻 All of my projects are available at ([zeeshanjunaidportfolio.vercel.app](https://zeeshanjunaidportfolio.vercel.app/))
 
