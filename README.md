@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zeeshan junaid</h1>
 <h3 align="center">A passionate fullstack developer from pakistan</h3>
 
-- 🔭 I’m currently working on [sportshubmobileapp](https://github.com/zeeshujunaid/sportshubapp)
+- 🔭 I’m currently working on [TasbeehAndPrayerApp](https://github.com/zeeshujunaid/TASBEEH-AND-PRAYER-REMINDER-APP)
 
 - 🌱 I’m currently learning **Ai (Artifical Intelligence)**
 
