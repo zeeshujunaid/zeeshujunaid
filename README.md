@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ai (Artifical Intelligence)**
 
-- 👨‍💻 All of my projects are available at ([zeeshanjunaidportfolio.vercel.app](https://zeeshanjunaidportfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at [zeeshanjunaidportfolio.vercel.app](https://zeeshanjunaidportfolio.vercel.app/)
 
 - 💬 Ask me about **any language**
 
